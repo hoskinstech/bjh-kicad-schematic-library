@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADM4073
+D High-Side Current Sense, Voltage Output
+K Current Sense
+F doc/ADM4073.pdf
+$ENDCMP
+#
+#End Doc Library

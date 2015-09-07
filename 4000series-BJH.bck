@@ -5,6 +5,11 @@ D CMOS Dual D-Type Flip-Flop
 F doc/108664_DS.pdf
 $ENDCMP
 #
+$CMP 4000series-4060
+D 14-stage binary ripple counter and oscillator
+F doc/CD4060B.pdf
+$ENDCMP
+#
 $CMP 4000series-4093
 D Quad 2-Input Nand schmitt trigger
 F doc/109356_DS.pdf

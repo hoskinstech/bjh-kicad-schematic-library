@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 4000series-4093
+D Quad 2-input Schmitt trigger NAND gate
+F doc/109356_DS.pdf
+$ENDCMP
+#
 $CMP 4000series-4514
 D 4-Bit Latched/4-to-16 Line Decoders
 F doc/109549_DS.pdf

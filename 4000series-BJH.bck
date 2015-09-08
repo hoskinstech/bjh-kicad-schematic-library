@@ -1,13 +1,23 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 4000series-4011
+D Quad 2-Input Nand gate
+F doc/108647_DS.pdf
+$ENDCMP
+#
 $CMP 4000series-4013
 D CMOS Dual D-Type Flip-Flop
 F doc/108664_DS.pdf
 $ENDCMP
 #
-$CMP 4000series-4060
-D 14-stage binary ripple counter and oscillator
-F doc/CD4060B.pdf
+$CMP 4000series-4052
+D Dual 4-channel analog multiplexer/demultiplexer
+F doc/109138_DS.pdf
+$ENDCMP
+#
+$CMP 4000series-4081
+D Quad 2-Input And gate
+F doc/109330_DS.pdf
 $ENDCMP
 #
 $CMP 4000series-4093
@@ -23,6 +33,11 @@ $ENDCMP
 $CMP 4000series-4515
 D 4-Bit Latched/4-to-16 Line Decoders
 F doc/109549_DS.pdf
+$ENDCMP
+#
+$CMP 4000series-4518
+D CMOS Dual BCD up counter
+F doc/109587_DS.pdf
 $ENDCMP
 #
 #End Doc Library

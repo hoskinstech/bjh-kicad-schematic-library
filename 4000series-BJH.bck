@@ -40,4 +40,9 @@ D CMOS Dual BCD up counter
 F doc/109587_DS.pdf
 $ENDCMP
 #
+$CMP 4000series-4543
+D BCD to 7-segment latch/decoder/driver with phase input
+F doc/HEF4543BF.pdf
+$ENDCMP
+#
 #End Doc Library

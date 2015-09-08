@@ -12,6 +12,11 @@ K N-Channel MOSFET
 F doc/2N7000.pdf
 $ENDCMP
 #
+$CMP BC327-25
+D 45V Vce, 0.5A Ic, PNP, TO-92
+F doc/8852.pdf
+$ENDCMP
+#
 $CMP IRFS7437
 D N-Channel enhancement mode field effect transistor
 K N-Channel Power MOSFET

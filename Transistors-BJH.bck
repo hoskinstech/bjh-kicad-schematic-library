@@ -12,4 +12,10 @@ K N-Channel MOSFET
 F doc/2N7000.pdf
 $ENDCMP
 #
+$CMP IRFS7437
+D N-Channel enhancement mode field effect transistor
+K N-Channel Power MOSFET
+F doc/IRFS7437.pdf
+$ENDCMP
+#
 #End Doc Library

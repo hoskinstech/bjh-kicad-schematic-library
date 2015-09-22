@@ -10,6 +10,11 @@ D CMOS Dual D-Type Flip-Flop
 F doc/108664_DS.pdf
 $ENDCMP
 #
+$CMP 4000series-4051
+D 8-channel analog multiplexer/demultiplexer
+F doc/109138_DS.pdf
+$ENDCMP
+#
 $CMP 4000series-4052
 D Dual 4-channel analog multiplexer/demultiplexer
 F doc/109138_DS.pdf
@@ -20,6 +25,11 @@ D 14-stage binary ripple counter and oscillator
 F doc/CD4060B.pdf
 $ENDCMP
 #
+$CMP 4000series-4068
+D 8-Input Nand/And gate
+F doc/109237_DS.pdf
+$ENDCMP
+#
 $CMP 4000series-4081
 D Quad 2-Input And gate
 F doc/109330_DS.pdf
@@ -28,6 +38,11 @@ $ENDCMP
 $CMP 4000series-4093
 D Quad 2-Input Nand schmitt trigger
 F doc/109356_DS.pdf
+$ENDCMP
+#
+$CMP 4000series-4094
+D 8-stage shift-and-store bus
+F doc/cd4094bms.pdf
 $ENDCMP
 #
 $CMP 4000series-4514
@@ -48,6 +63,11 @@ $ENDCMP
 $CMP 4000series-4543
 D BCD to 7-segment latch/decoder/driver with phase input
 F doc/HEF4543BF.pdf
+$ENDCMP
+#
+$CMP OpAmp-TLV2374
+D Quad Rail-to-Rail Operational Amplifer
+F doc/tlv2374.pdf
 $ENDCMP
 #
 #End Doc Library

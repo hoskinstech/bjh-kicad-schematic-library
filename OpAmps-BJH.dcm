@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP OpAmp-TLV2374
+D Quad 2-Input Nand gate
+F doc/108647_DS.pdf
+$ENDCMP
+#
+#End Doc Library

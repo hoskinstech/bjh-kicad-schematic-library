@@ -10,6 +10,11 @@ D CMOS Dual D-Type Flip-Flop
 F doc/108664_DS.pdf
 $ENDCMP
 #
+$CMP 4000series-4024
+D 7-stage binary ripple counter
+F doc/CD4024.pdf
+$ENDCMP
+#
 $CMP 4000series-4051
 D 8-channel analog multiplexer/demultiplexer
 F doc/109138_DS.pdf
@@ -55,6 +60,11 @@ D 4-Bit Latched/4-to-16 Line Decoders
 F doc/109549_DS.pdf
 $ENDCMP
 #
+$CMP 4000series-4516
+D Presettable 4-bit binary up/down counter
+F doc/109577_DS.pdf
+$ENDCMP
+#
 $CMP 4000series-4518
 D CMOS Dual BCD up counter
 F doc/109587_DS.pdf
@@ -63,11 +73,6 @@ $ENDCMP
 $CMP 4000series-4543
 D BCD to 7-segment latch/decoder/driver with phase input
 F doc/HEF4543BF.pdf
-$ENDCMP
-#
-$CMP OpAmp-TLV2374
-D Quad 2-Input Nand gate
-F doc/108647_DS.pdf
 $ENDCMP
 #
 #End Doc Library

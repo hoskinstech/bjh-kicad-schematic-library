@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MC68000
+D Motorola 68000 CPU
+F doc/MC68000.pdf
+$ENDCMP
+#
+#End Doc Library

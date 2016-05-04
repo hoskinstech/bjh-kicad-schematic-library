@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 5719
+D 5719 "GARY" IC
+$ENDCMP
+#
+$CMP 8372A
+D 5719 "GARY" IC
+$ENDCMP
+#
+#End Doc Library

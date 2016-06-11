@@ -5,4 +5,9 @@ D 0.56" Two Digit 7 Segment Display
 F doc/57-0148
 $ENDCMP
 #
+$CMP SC08-11EWA
+D 0.56" Two Digit 7 Segment Display
+F doc/57-0148
+$ENDCMP
+#
 #End Doc Library

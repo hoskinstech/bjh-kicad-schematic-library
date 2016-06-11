@@ -50,6 +50,11 @@ D 8-stage shift-and-store bus
 F doc/cd4094bms.pdf
 $ENDCMP
 #
+$CMP 4000series-4511
+D BCD to 7-segment latch/decoder/driver
+F doc/CD4511.pdf
+$ENDCMP
+#
 $CMP 4000series-4514
 D 4-Bit Latched/4-to-16 Line Decoders
 F doc/109549_DS.pdf

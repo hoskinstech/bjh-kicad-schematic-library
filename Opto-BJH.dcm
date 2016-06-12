@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CA56-21
+D Kingbright 0.56" Four Digit "clock" 7 Segment Display
+F doc/CA56-21.pdf
+$ENDCMP
+#
 $CMP OSL20561-IX
 D 0.56" Two Digit 7 Segment Display
 F doc/57-0148

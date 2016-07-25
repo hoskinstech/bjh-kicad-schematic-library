@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RN4020
+D RN4020 Bluetooth Low Energy Module
+F doc/RN4020.pdf
+$ENDCMP
+#
+#End Doc Library

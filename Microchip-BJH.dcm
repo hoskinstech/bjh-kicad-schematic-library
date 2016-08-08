@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PIC18F25K80
+D Microchip PIC18F25K80 Microcontroller
+F doc/PIC18F25K80.pdf
+$ENDCMP
+#
+#End Doc Library

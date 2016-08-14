@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP POXA1328-007
+D POXA1328-007 GPS Module
+F doc/43-1293_V1.pdf
+$ENDCMP
+#
 $CMP RN4020
 D RN4020 Bluetooth Low Energy Module
 F doc/RN4020.pdf

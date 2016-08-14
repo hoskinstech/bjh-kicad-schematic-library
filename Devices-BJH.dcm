@@ -6,4 +6,9 @@ K Current Sense
 F doc/ADM4073.pdf
 $ENDCMP
 #
+$CMP MAX3232_BJH
+D RS232 Line Driver/Receiver
+F doc/max3232.pdf
+$ENDCMP
+#
 #End Doc Library

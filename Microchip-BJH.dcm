@@ -10,4 +10,9 @@ D Microchip PIC18F25K80 Microcontroller
 F doc/PIC18F25K80.pdf
 $ENDCMP
 #
+$CMP S25FL127S_SOIC
+D S25FL127S 16MB Flash Memory
+F doc/S25FL127S.pdf
+$ENDCMP
+#
 #End Doc Library

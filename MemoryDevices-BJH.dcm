@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP S25FL127S_SOIC
+D S25FL127S 16MB Flash Memory
+F doc/S25FL127S.pdf
+$ENDCMP
+#
+#End Doc Library

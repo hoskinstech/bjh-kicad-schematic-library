@@ -11,4 +11,9 @@ D RS232 Line Driver/Receiver
 F doc/max3232.pdf
 $ENDCMP
 #
+$CMP RT8471_BJH
+D RT8471 LED Driver
+F doc/RT8471.pdf
+$ENDCMP
+#
 #End Doc Library

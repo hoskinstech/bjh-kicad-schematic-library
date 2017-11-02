@@ -1,5 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ALPHA-RX
+D ALPHA-TX Transmitter Module
+F doc/Alpha-RxTx.pdf
+$ENDCMP
+#
+$CMP ALPHA-TX
+D ALPHA-TX Transmitter Module
+F doc/Alpha-RxTx.pdf
+$ENDCMP
+#
 $CMP POXA1328-007
 D POXA1328-007 GPS Module
 F doc/43-1293_V1.pdf

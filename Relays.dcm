@@ -4,4 +4,9 @@ $CMP DS2E-S-DC12V
 D DS2E-S-DC12V Single Side Stable Relay
 $ENDCMP
 #
+$CMP RM85-2011-35-1012
+D RM85 SPDT Minature Relay 12V 16A
+F doc/RM85.pdf
+$ENDCMP
+#
 #End Doc Library

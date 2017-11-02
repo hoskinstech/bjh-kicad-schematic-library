@@ -5,9 +5,19 @@ D MCP7952X / MCP7951X RTC - 3V SPI Real-Time Clock Calendar with Battery Switcho
 F doc/MCP7952X.pdf
 $ENDCMP
 #
+$CMP PIC-10F200-SOT-23
+D PIC10F200 Series in SOT-23 format
+F doc/PIC10F200.pdf
+$ENDCMP
+#
 $CMP PIC-12F1822
 D PIC 12F1822 Microcontroller
 F doc/40001413E.pdf
+$ENDCMP
+#
+$CMP PIC12F508
+D PIC 12F508 Microcontroller PDIP/SOIC/MSOP
+F doc/PIC12F508.pdf
 $ENDCMP
 #
 $CMP PIC18F25K80
